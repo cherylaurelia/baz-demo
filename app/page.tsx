@@ -1,5 +1,4 @@
-const FORK_DIFF =
-  "https://github.com/baz-scm/baz-cli/compare/main...cherylaurelia:baz-cli:fix/local-review-base";
+const FORK_DIFF = "https://github.com/baz-scm/baz-cli/pull/130";
 const ISSUE = "https://github.com/baz-scm/baz-cli/issues/126";
 const REPO = "https://github.com/cherylaurelia/baz-demo";
 
